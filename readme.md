@@ -12,4 +12,6 @@ It includes implementation of some basic HTML concepts such as:
 
 This is just a **Kinder Garden Project**.
 
+Deployed on Netlify - https://master--dazzling-praline-a024d3.netlify.app
+
 ##### &copy; KRT, 2017
